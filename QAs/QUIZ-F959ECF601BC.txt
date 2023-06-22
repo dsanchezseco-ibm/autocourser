@@ -1,0 +1,402 @@
+[
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Watson Speech, together with Watson Assistant, can reduce call center operational costs by resolving calls faster and often without a human agent.\u00a0",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Numeric Redaction protects user data by masking sensitive numeric data.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Can run entirely on premises when deployed with Cloud Pak for Data.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-P",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Custom Voices allows Watson to learn a new voice with as little as one hour of recorded audio and then use this new voice to \u201cspeak\u201d text passages that are fed by the application.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Y",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Watson Assistant",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Contact Center Insights",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Other marketplace offerings bill by the API call, which they round up to 15 seconds; IBM aggregates the actual seconds, and bills for them at the end of the month to the nearest minute.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-W",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "As a Voice Add-on to Watson Discovery",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-K",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "95% transcription accuracy",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "When deployed as part of a solution that listens in on a conversation, transcribes it, and finds relevant content buried in various documents or web pages.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Inconsistent policies and procedures",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-T",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Spanish Castilian",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-V",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Watson Speech to Text Plus plan",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-N",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Try Watson Speech by downloading the installation files on IBM.com, so that you can install them in your data center",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Generic phrases",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-R",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Not to worry, Speech Synthesis Markup Language (SSML) will give them the level control they need.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "With Watson Speech as part of a solution, this client\u2019s customers can have a two-way conversation with a virtual assistant, get answers faster than ever before, without being put on hold to wait for an agent, and at a fraction of the cost.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Q",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Tune by Example allows clients to control how text is spoken by providing a recording of a voice.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-U",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Grammars",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "With Watson Speech to Text, this client can audit a large volume of calls so that they can transcribe, analyze, and score recordings for compliance, correctness, and quality, and will be better able to manage their risk.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-O",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Completing an inquiry without waiting to reach a call center representative",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-X",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Watson Assistant",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-L",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Most natural sounding voices in the market",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-M",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Deployment options in any environment, whether it is on premises or any cloud through Cloud Pak for Data.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-S",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Watson Text to Speech",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    }
+]

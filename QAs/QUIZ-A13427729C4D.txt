@@ -1,0 +1,402 @@
+[
+    {
+        "id": "QUESTION-K",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "It allows users to proactively detect and remediate issues with an understanding of contributing factors. Analyze every user request from any perspective to quickly find and resolve every bottleneck.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-L",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "A decrease in Mean Time to Resolve (MTTR) and a decrease in cloud spend",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Instana re-imagined what Observability and Application Performance Monitoring (APM) mean for cloud-native, microservices, containerized, and orchestrated applications.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Q",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "The number of containers in a Kubernetes clusters on which there is any workload you want to monitor",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-S",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "It captures, remembers and displays the relationships between different data entities&nbsp;so that users can see those relationships in real time.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-W",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Instana<em>&nbsp;</em>profiling<em>&nbsp;</em>is an automated and continuous production&nbsp;profiler&nbsp;which enables clients&#39; to continuously analyze code-level performance in production\u200b&nbsp;",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "It enables Instana to provide constant proactive automated health monitoring using a curated knowledge base of health signatures for 250+ technologies.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-U",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Currently, synthetic monitoring is\u00a0available\u00a0as Technology Preview. General Availability and further enhancements to synthetic monitoring are in IBM near term roadmap",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-P",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Companies moving to cloud-native and other modern technologies",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Instana uses a single agent per host to automatically and continuously discover all components.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Provides proactive, actionable, realtime visibility of a customer&rsquo;s applications",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Data fidelity, continuous automated discovery, predictable pricing",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Y",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Application perspectives",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-N",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Competitors&#39; pricing is simple, predictable, and all-inclusive.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-O",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "High data fidelity (100% traces /&nbsp;1-second metric resolution)",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Sampling",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "APM tells you when something is wrong. Observability enables you to understand why.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-T",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "If log aggregator tools (like Humio, ELK, Splunk) are integrated with Instana, the servers sending the logs have to be licensed with Instana even if there is no Instana agent installed",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-R",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "To allow a trade-up from legacy IBM monitoring tools for a SaaS subscription",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Automation, context and intelligent action",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Optimize infrastructure spend",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-X",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Out of the box, Instana gathers application logs for warnings and errors which are correlated to the metrics and traces. Additionally, integration with 3rd party log aggregation tools (like Splunk, ELK or Humio) is available.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-M",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Instana is in the Leaders quadrant, moved up and to the right, while the legacy APM tools moved down. Instana is disrupting the industry. G2 Crowd rates Instana very highly against the competition.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Those very things that are streamlining application development make it harder to monitor and remediate and stabilize the production deployments",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-V",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Microservices, containers, Kubernetes (i.e., OpenShift)",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    }
+]

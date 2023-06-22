@@ -1,0 +1,9 @@
+# misc
+.DS_Store
+.dccache
+.vscode
+.git
+.gitignore
+.env
+Makefile
+Containerfile

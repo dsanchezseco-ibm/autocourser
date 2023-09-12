@@ -1,0 +1,377 @@
+[
+    {
+        "id": "QUESTION-P",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "E980, E1080",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "240",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "4",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-N",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "2004",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-V",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Virus resistance, object based security model, and built in intrusion detection and prevention",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-M",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "AIX, Linux, IBM i",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Q",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "SMT2, SMT4, and SMT8",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "PowerSC",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Y",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Lower Total Cost of Ownership (TCO)",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-U",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "PowerVM",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Performance, Optimization, with enhanced RISC",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-R",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "1920",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "4.1x",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "AIX, Linux, IBM i, and Red Hat OpenShift",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-L",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "4",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Cloud Management Console",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-K",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Resiliency and Availability, Economics, Flexibility, Security, Sustainability, Performance, and the Hybrid Cloud",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "In memory, in transit, on disk, and on cloud storage",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-X",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Power supplies, fans, CPUs, and memory\u00a0",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-O",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "7nm",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Based on usage",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-W",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Live Update",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-T",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "PowerVC",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-S",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "13",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Reduced Instruction Set Computing",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    }
+]

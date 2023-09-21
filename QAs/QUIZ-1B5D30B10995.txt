@@ -1,0 +1,227 @@
+[
+    {
+        "id": "QUESTION-K",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "<br />PoX scope and installation information, a review of all results obtained while running the PoX, a summary of the entire PoX process, why IBM is the best choice for the client, a proposed architecture for the solution, and any next steps that need to be taken to continue developing the solution.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en-us": {
+                        "title": "<br />A proof of value (PoV)",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "<br />Worldwide Distributed Software Evaluation Request (WWSWEval) application form and the International License Agreement for Evaluation of Programs (ILAE).",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "<br />Only agree to what you can do with available resources and what you can successfully deliver to minimize the effort and complexity while showing the differentiating capabilities of the IBM solution.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en-us": {
+                        "title": "<br />The client will need to provide their requirements in an easy-to-understand way, they should provide feedback throughout the project, and evaluate the results of the project.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "<br />They add to the scope of the PoX and increase the effort, complexity, time, and risk.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-L",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en-us": {
+                        "title": "<br />Discuss results first by talking about what the solution was able to achieve and the impact the product had on the problem. Then talk about how the product works.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "<br />Sample data, log files, documents, test scenarios, query reports, procedure reports, runtime reports, and function reports.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-O",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en-us": {
+                        "title": "<br />Use realistic persona-based business scenarios, tell a story, show the technology in action, and use a typical presentation flow.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en-us": {
+                        "title": "<br />Roles and responsibilities, a general background of the engagement, expected deliverables, and success criteria.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "<br />Ensuring that your team has the skills and availability to complete all of the deliverables.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "<br />Tech Zone",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "<br />The client&#39;s challenges and priorities, their technology landscape, and their organizational strucure, including influencers and decision makers.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-N",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "<br />Hardware, software, resources, test plan, exit criteria, and ensure that, if successful, the Proof of Experience (PoX) end in a sale.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-M",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en-us": {
+                        "title": "<br />Make sure to have another tab or video that you can use to continue the presentation from where you left off. Simply mute the video and talk over it while pausing and playing as necessary.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    }
+]

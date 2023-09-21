@@ -1,0 +1,402 @@
+[
+    {
+        "id": "QUESTION-O",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "IBM Z Digital Integration Hub.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-T",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "IBM Cloud differentiates with its built-in security, z/OS developer experience, and sustainability by leveraging IBM zSystems technologies.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-U",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "IBM Z and Cloud Modernization Stack.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": true
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-V",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Lift and shift of mainframe applications to the cloud.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "A deeper dive on the IBM Z Software products.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-S",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "AIOps",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": true
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "3x",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-N",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "They have no intention of using the software on or with IBM zSystems.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "11",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-K",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Leverage application discover tools to better understand current applications.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Application migration.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Q",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "You have to train the AI model on IBM zSystems to deploy it there.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": true
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Deploy system monitoring tools.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Project-based starting points that align to client needs and deliver near term value.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-W",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "It demonstrates to clients the level of technical collaboration that IBM is leading.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": true
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Y",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Mainframe System Administrators.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Mission-critical secure transaction processing.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Help sellers customize IBM&#39;s Mainframe Application Modernization point-of-view presentation to meet your client&#39;s situation.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "A hybrid cloud approach to mainframe applications is faster, lower cost, and less risk than migration to public cloud alone.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-R",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Red Hat Ansible does not support existing mainframe automation products.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-L",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Maintain IBM zSystems hardware and software currency.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Greater than 2.5x",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": true
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-P",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Improved incident detection.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": true
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-M",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Implement an open API strategy.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-X",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "They highlight the cumulative benefit of executing the different entry points in support of transformation initiatives.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,377 @@
+[
+    {
+        "id": "QUESTION-W",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Python notebooks",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-P",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Regulatory, reputational, and operational",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Niche competitors focus on only one specific aspect of AI governance, where IBM has comprehensive governance capabilities.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-N",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "AI Factsheets, Watson OpenScale, and IBM OpenPages",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-K",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Emphasize IBM's ability to govern models built and developed using different tools and deployed on different platforms.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-L",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Bias monitoring and mitigation",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-O",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "A data poisoning attack",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-S",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "The field of AI has not standardized on a set of best practices or tools, resulting in highly-fragmented development and deployment environments.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "The watsonx.governance solution can automate metrics gathering and provide relevant information to decision makers in configurable dashboards.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Lifecycle governance, risk management, and regulatory compliance",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Fairness, quality, and drift",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-U",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "A use case request",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-T",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Use of unfairly biased training data",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "The watsonx.governance solution can track and monitor their predictive models on the Azure platform.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Watson OpenScale",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-M",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "The ProtoDash algorithm",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-X",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Open-source AI governance projects from IBM Research",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Quality",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Y",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Predictive AI",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-V",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "A client briefing",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "By capturing metrics and metadata throughout the entire lifecycle, including details on training datasets and evaluation results.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-R",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Hallucination",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "IBM OpenPages",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Q",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Generative AI",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Drift",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    }
+]

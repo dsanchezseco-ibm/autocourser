@@ -1,0 +1,242 @@
+[
+    {
+        "id": "QUESTION-N",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en-us": {
+                        "title": "IBM watsonx Code Assistant for Z",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en-us": {
+                        "title": "watsonx.data",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en-us": {
+                        "title": "IBM foundation models are targeted for business use cases that can be quickly, effectively, and economically tuned with small sets of business-specific proprietary data.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en-us": {
+                        "title": "Trusted",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-M",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en-us": {
+                        "title": "This board\u2019s mission is to support a centralized governance, review, and decision-making process for IBM ethics policies, practices, communications, research, products, and services.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en-us": {
+                        "title": "watsonx Assistant",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en-us": {
+                        "title": "watsonx.governance",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en-us": {
+                        "title": "AI must be explainable, fair, robust, transparent, and prioritize and safeguard consumers\u2019 privacy and data rights.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-K",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en-us": {
+                        "title": "watsonx.ai",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "Human Resources, customer service, and application modernization",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en-us": {
+                        "title": "Foundation models use self-supervised learning on a large pool of unlabeled data and do not require labeled data.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "watsonx Orchestrate",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-L",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "By driving governance, ethics by design, methods and tools, and partnerships into all its functions.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en-us": {
+                        "title": "The curated data is cleansed to remove duplicates, filter out bias, hate, copyrighted content, and more.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-O",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en-us": {
+                        "title": "Retrieval-augmented generation (RAG)",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    }
+]

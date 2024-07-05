@@ -1,0 +1,227 @@
+[
+    {
+        "id": "QUESTION-N",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "<p>Connecting to a database</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>Excel spreadsheet (xlsx)</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>Db2</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>Graphics processing units (GPUs)</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-L",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>Their models can be monitored, but generating explanations requires significant numbers of requests to the model, which may increase their costs.</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>Ensure you have the latest version of the FastMap file.</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-K",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>In SaaS instance shared accounts, other users can make global changes to some services in the environment that may affect the PoX.</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-M",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "<p>The OpenScale (monitoring) service</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>Create the account manually in Cloud Pak for Data</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>Four hours or more</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-O",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "<p>Model performance metadata is automatically synced with the model Factsheet</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "<p>Watson OpenScale</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>Build</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>The Cloud Pak for Data admin user credentials</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>IBM OpenPages</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    }
+]

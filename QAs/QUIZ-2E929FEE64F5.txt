@@ -1,0 +1,242 @@
+[
+    {
+        "id": "QUESTION-M",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Give an example of the outcome you\u2019re looking for in this activity",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "A strong opinion on what the solution should be",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-O",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Preparation time: workshop preparation is the most time consuming element of facilitation and 1-day likely isn\u2019t enough notice to get conditions such as agenda, timings and participants right",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-K",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Create a pop-up rule of 5 mins of silence to write stuff down, before more discussion",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-L",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "All of the above",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "All of the above",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Pain point voting: compare the end-user pain points and prioritise which one(s) to tackle first",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "To encourage participation, foster decision making and keep the session moving forwards",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "All of the above.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Any role",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-N",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "Reflect, create an output, address follow-up on actions",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "This is an example of generous authority where facilitators create an inclusive, supportive environment where everyone feels heard",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Close: we need to form a conclusion of some sort, which could be done with voting, prioritising or making a decision",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-D",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "All of the above",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-C",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Only people who contribute to the meeting\u2019s purpose - anyone else can be updated in a follow-on session",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    }
+]

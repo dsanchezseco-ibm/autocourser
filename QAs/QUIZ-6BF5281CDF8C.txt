@@ -1,0 +1,402 @@
+[
+    {
+        "id": "QUESTION-S",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "IBM watsonx Discovery",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-O",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>They need their employees to understand the policies of\u00a0their\u00a0organization, walk through a process that may be changing daily, and do that all without having to\u00a0context-switch\u00a0between 13 different applications every day to get their work done. IBM has the technology and services to help these users.</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-V",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "94% of inquiries are resolved without human intervention",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Pre-built skills, discovered or trained skills, \u201cbuild your own\u201d skills",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "There is a market opportunity worth $51 billion that IBM is addressing with watsonx Orchestrate, combining the powerful conversational AI capability of watsonx Assistant with the long and deep history and incumbency that IBM has in business automation.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-U",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Well over 80%",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-W",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "75% of CEOs say their competitive advantage rests on generative AI\u00a0",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-L",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "IBM watsonx Code Assistant for Z generates high-quality object-oriented Java code",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Using the Workday skill, watsonx Orchestrate can create a job requisition, draft a job description, define a salary range, and either approve it or pass it on to a human for approval before posting.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-T",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "An AI studio, data, and governance",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "IBM watsonx Assistant can extract and maintain multiple pieces of information from a single customer utterance so the user doesn\u2019t have to repeat themselves.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-R",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "They excel in conversational abilities, providing information, and automating end-to-end processes.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-N",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "With their ability to simplify access to information and automate various tasks and processes, AI assistants can help businesses save time and money while improving overall efficiency.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Q",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Long wait times, poor quality of help, expensive to maintain",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Detect and root out hateful and profane content",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Developers",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-M",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "IBM watsonx Orders is an AI assistant for drive-thrus. This retail client is not a viable opportunity for watsonx Orders.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "<p>Each of IBM's AI assistants is an application built on the watsonx platform</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "80% of enterprises will incorporate generative AI into their business processes",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-P",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Each of IBM's AI assistants is a Software-as-a-Service (SaaS) application built on the watsonx platform.\u00a0",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Y",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "IBM has over 21,000 \u2013 and growing \u2013 skilled data and AI practitioners, and has delivered over 40,000 AI and analytics client engagements",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Skills are digital automations and integrations that link back to their organization, allowing existing workflows developed over decades to continue to provide a return on investment for the organization, while providing employees and customers with a completely new and accelerated experience for getting things done.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Highly skilled workers are seeing a 40% performance improvement compared with those who don't use generative AI",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-X",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "Humans offer capability, machines deliver scalability",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-K",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "IBM conducted a tech preview for about six months before the General Availability (GA) of the watsonx Code Assistant for Ansible Lightspeed. During this period, around 5,000 users utilized the capabilities. Even with the early preview versions, users accepted well over 80% of this product's recommendations.",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    }
+]

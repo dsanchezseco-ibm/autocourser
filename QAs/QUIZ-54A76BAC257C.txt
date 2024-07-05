@@ -1,0 +1,152 @@
+[
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>Spark</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>The watsonx.governance roadmap presentation on Seismic.</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>Whether graphical processing units (GPUs) will be required to demonstrate key capabilities</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>The DOU can be just a handful of pages long, but must contain elements including Background, Activities, Success Criteria, and Assumptions, among others.</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>Use of personally identifiable information (PII) in the datasets.</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>Watsonx.governance is platform-agnostic, allowing the client to monitor their Microsoft models without being locked into the Microsoft ecosystem as the AI ecosystem evolves.</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>The governance console (OpenPages)</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>AI is a rapidly-evolving field with no standard environment.</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>Open-source solutions can be difficult to maintain and are often aimed at highly technical audiences more comfortable working with code and raw output.</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>Product documentation and the relevant GitHub sample code</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    }
+]

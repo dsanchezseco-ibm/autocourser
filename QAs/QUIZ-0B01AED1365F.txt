@@ -1,0 +1,152 @@
+[
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "10",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "Sum the CPU limit total, sum capacity of all worker nodes, license the lesser of CPU limit total or worker node capacity.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "The client only needs to license the capacity available to that container, with more flexibility, simplified auditing, and potential license savings.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "IBM container strategy allows clients to license VPCs based on the physical core of the server, which simplifies auditing and compliance.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-B",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "3",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "A worker node provides a containerized environment for running tasks with its capacity measured in virtual cores (vCPUs).",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "The minimum CPU resources required by the container to run.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "48",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Compute capacity estimates for Master, Infrastructure, and Load Balancer nodes required as part of a Red Hat OpenShift Container Platform cluster.",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "Core concepts, automated tooling, and connection with experts",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    }
+]

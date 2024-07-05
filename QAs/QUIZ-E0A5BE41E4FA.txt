@@ -1,0 +1,302 @@
+[
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>watsonx-governance MRG Master</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>A business entity</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>ROUGE (Recall Oriented Understudy for Gisting Evaluation)</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>Enumerated String</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-S",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>Fairness, quality, and drift</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-O",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>Security domain</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-P",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "<p>Disable the old view</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>The AI Assessments Workflow</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>Conditions</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-K",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>Access key, secret key, region name</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>The AI risk atlas</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-Q",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "<p>The fairness monitor runs hourly, and can be initiated manually</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-L",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>Monitored groups, reference groups, and positive outcomes</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>Other end users will be unable to access the governance console.</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-M",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>Create a copy of the base system view and modify the copy</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "<p>Input and output data can be written to the datamart via REST API or Python SDK</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-T",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "<p>A machine learning provider</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-N",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>The watsonx governance console</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-R",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>A questionnaire template</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>In the Other section of the Administration menu, toggle the Display Debug Info option.</p>",
+                        "feedback": ""
+                    }
+                }
+            }
+        ]
+    }
+]

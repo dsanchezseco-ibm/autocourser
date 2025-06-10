@@ -1,6 +1,8 @@
 import requests
 import random
 import json
+import copy
+
 
 def solver(quiz_id, JWT_token, old):
     headers = {
@@ -15,7 +17,8 @@ def solver(quiz_id, JWT_token, old):
     # init test -> get Q&A (PUT)
 
     test = requests.put(quiz_base_url, headers=headers).json()['data']
-    test_q = test['questions']
+    whole_test_q = test['questions']
+    test_q = copy.deepcopy(whole_test_q)
 
     if old:
         print("I know this one!")
@@ -28,10 +31,12 @@ def solver(quiz_id, JWT_token, old):
     # repeat while < passing_score %
     while (
         100 * (test['correctlyAnsweredQuestionsCount'] /
-            test['totalQuestionsCount'] )< test['passingScore']
+               test['totalQuestionsCount']) < test['passingScore']
     ):
         if test['status'] != "In Progress":
-           requests.put(quiz_base_url, headers=headers).json()['data']
+            new_test_q = requests.put(
+                quiz_base_url, headers=headers).json()['data']['questions']
+            test_q = find_previous(whole_test_q, new_test_q)
 
         # answer randomly all the Q (PUT)
         answered = []
@@ -73,7 +78,7 @@ def solver(quiz_id, JWT_token, old):
                         "answers": list(filter(lambda x: x['id'] != a['choice'], q['answers']))
                     })
 
-            test_q = new_q
+            whole_test_q = copy.deepcopy(merge_dicts(whole_test_q, new_q))
 
     if not old:
         with open("QAs/"+quiz_id + ".txt", "w") as outfile:
@@ -85,3 +90,28 @@ def solver(quiz_id, JWT_token, old):
               test['totalQuestionsCount']) + " of " + str(test['passingScore']) + "%")
     print()
     input("press a key to continue")
+
+
+def merge_dicts(old: list[dict], new: list[dict]):
+    merged = []
+    founds = []
+    for o in old:
+        found = list(filter(lambda n: o['id'] == n['id'], new))
+        element = {}
+        if len(found) > 0:
+            element = found[0]
+            founds.append(element['id'])
+        merged.append(o | element)
+
+    # add new elements not found in old
+    trully_news = list(filter(lambda n: n['id'] not in founds, new))
+    merged.extend(trully_news)
+
+    return merged
+
+def find_previous(whole: list[dict], new: list[dict]):
+    merged = []
+    for n in new:
+        found = list(filter(lambda o: o['id'] == n['id'], whole))
+        merged.append(found[0] if len(found) > 0 else n)
+    return merged

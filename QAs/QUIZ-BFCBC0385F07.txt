@@ -1,0 +1,242 @@
+[
+    {
+        "id": "QUESTION-K",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>Single pod per service configurations\u00a0</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-D",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>IBM Storage Scale\u00a0</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-H",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>At least 1335GB</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-J",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>Three</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-N",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>At least\u00a02 GPUs\u00a0for a non-HA deployment\u00a0</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-B",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>68 vCPUs, 444GB Memory</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-E",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>IAM is enabled, watsonx Assistant is not already installed in target namespace and the latest IBM Software Hub (or CPD) control plane is installed\u00a0</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-G",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>A private container registry, Multi-cloud object gateway and IBM App Connect\u00a0</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-F",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>A client workstation or a bastion host is required to perform installation tasks</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-C",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 4,
+                "language": {
+                    "en": {
+                        "title": "<p>Skill based actions and conversational search\u00a0</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-I",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "<p>Provisioning is self-driven using the IBM Cloud Catalog</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-A",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "<p>At least three</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-M",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 1,
+                "language": {
+                    "en": {
+                        "title": "<p>Medium sizing\u00a0</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-L",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 2,
+                "language": {
+                    "en": {
+                        "title": "<p>Treat documented minimums as a starting point, monitor CPU and memory utilization and set alerts if usage reaches 80% of capacity\u00a0</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "QUESTION-O",
+        "answers": [
+            {
+                "id": "ANSWER-A",
+                "index": 3,
+                "language": {
+                    "en": {
+                        "title": "<p>The Red Hat OpenShift Container Platform cert-manager operator must be installed. This is not included by default but is a requirement for IBM Software Hub</p>",
+                        "feedback": ""
+                    }
+                },
+                "markedAsCorrect": false
+            }
+        ]
+    }
+]
